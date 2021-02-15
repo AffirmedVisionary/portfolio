@@ -19,7 +19,7 @@
     "test:ci": "DETERMINISTIC=true start-server-and-test 8000",
     "update-media": "cypress run -C ./cypress-media.json",
     "update-media:ci": "DETERMINISTIC=true start-server-and-test 8000 update-media",
-    "first-build": "npm get-about && npm check-types && gatsby build"
+    "first-build": "npm run-all  prestart && npm run build"
 
   },
   "repository": {
