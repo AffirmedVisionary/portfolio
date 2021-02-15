@@ -639,10 +639,10 @@
       },
       "fields": {
         "name": {
-          "en-US": "Mate"
+          "en-US": "Charlene Grant"
         },
         "description": {
-          "en-US": "Gatsby v2 starter to create a top notch portfolio!"
+          "en-US": "Proffesional Portfolio of The Affirmed Visionary Charlene Grant"
         },
         "roles": {
           "en-US": [
@@ -694,10 +694,10 @@
           }
         },
         "aboutMe": {
-          "en-US": "Hello 👋 I'm Mate a gatsby starter which is focus on simplicity and extensibility. It's build with Gatsby(duh), [Rebass](https://jxnblk.com/rebass/) (styled-component system) and [Contentful](https://www.contentful.com/).\n\nThe starter will give you 4 sections (it's really easy to add more if you want 😃):\n* [Landing:](#home) Displays a nice greeting with your name, also your roles (what you  are) and all your social links.\n* [About:](#about) Show the about section where you can write about who you are, what you like to do, etc. Also you can add a photo next to it!\n* [Project:](#projects) Displays a card for all your project that you've made and also the posibility to link with github or and external link.\n* [Writing:](#writing) Take the information about your medium user and show up to 6 stories as cards with the link to Medium."
+          "en-US": "Hello 👋 I'm Charlene. A Full Stack Software Developer. Specialising in the MERN stack and evolving everyday. This portfolio was created using Gatsby Js."
         },
         "mediumUser": {
-          "en-US": "@mate.starter"
+          "en-US": "@affirmedvisionaryr"
         },
         "projects": {
           "en-US": [
@@ -785,7 +785,7 @@
           "en-US": "Github"
         },
         "url": {
-          "en-US": "https://github.com/EmaSuriano/gatsby-starter-mate/blob/master/README.md"
+          "en-US": "https://github.com/AffirmedVisionary/portfolio/main/README.md"
         },
         "fontAwesomeIcon": {
           "en-US": "github"
@@ -1103,7 +1103,7 @@
           "en-US": "Medium"
         },
         "url": {
-          "en-US": "https://medium.com/@emasuriano"
+          "en-US": "https://medium.com/@affirmedvisionary"
         },
         "fontAwesomeIcon": {
           "en-US": "medium"
@@ -1235,7 +1235,7 @@
           "en-US": "Twitter"
         },
         "url": {
-          "en-US": "https://twitter.com/emasuriano"
+          "en-US": "https://twitter.com/affirmedvision"
         },
         "fontAwesomeIcon": {
           "en-US": "twitter"
@@ -1503,14 +1503,14 @@
       },
       "fields": {
         "title": {
-          "en-US": "Mate Logo"
+          "en-US": "Affirmed Visionary Logo"
         },
         "description": {
-          "en-US": "Mate Logo"
+          "en-US": "Affirmed Visionary Log by and for Charlene Grant"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/ntiequ7mc6q6/6nf3rNaaVaUqYcoAcciSeC/4433ecac61b8aa767edd9e11739bb30a/Mate_Logo.png",
+            "url": "//images.ctfassets.net/s3w23qaxhyr3/6nf3rNaaVaUqYcoAcciSeC/fca66db3319393c9517160ef38b5203e/logo.png",
             "details": {
               "size": 52527,
               "image": {
@@ -1518,7 +1518,7 @@
                 "height": 948
               }
             },
-            "fileName": "Mate Logo.png",
+            "fileName": "logo.png",
             "contentType": "image/png"
           }
         }
